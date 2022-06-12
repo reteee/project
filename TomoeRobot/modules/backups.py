@@ -12,7 +12,7 @@ from TomoeRobot.modules.helper_funcs.chat_status import user_admin
 from TomoeRobot.modules.helper_funcs.alternate import typing_action
 
 # from TomoeRobot.modules.rules import get_rules
-import SkyzuRobot.modules.sql.rules_sql as rulessql
+import TomoeRobot.modules.sql.rules_sql as rulessql
 
 # from TomoeRobot.modules.sql import warns_sql as warnssql
 import TomoeRobot.modules.sql.blacklist_sql as blacklistsql
