@@ -1,7 +1,7 @@
 from typing import Optional
 
 import TomoeRobot.modules.sql.rules_sql as sql
-from TomkeRobot import dispatcher
+from TomoeRobot import dispatcher
 from TomoeRobot.modules.helper_funcs.chat_status import user_admin
 from TomoeRobot.modules.helper_funcs.string_handling import markdown_parser
 from telegram import (
