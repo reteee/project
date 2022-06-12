@@ -20,7 +20,7 @@ from TomoeRobot.modules.helper_funcs.chat_status import user_admin
 from TomoeRobot.modules.helper_funcs.extraction import extract_text
 from TomoeRobot.modules.helper_funcs.filters import CustomFilters
 from TomoeRobot.modules.helper_funcs.misc import build_keyboard_parser
-from SkyzuRobot.modules.helper_funcs.msg_types import get_filter_type
+from TomoeRobot.modules.helper_funcs.msg_types import get_filter_type
 from TomorRobot.modules.helper_funcs.string_handling import (
     split_quotes,
     button_markdown_parser,
